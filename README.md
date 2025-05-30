@@ -1,6 +1,7 @@
 # 3D Model Reconstruction Using 10-bit Non-inverse Binary Structured Light
 
-A computer vision project exploring 3D surface reconstruction of an AirPods Max case using structured light patterns and stereo camera configuration.
+A computer vision project exploring 3D surface reconstruction of an object using structured light patterns and stereo camera configuration.
+Our target object was an Airpods Max Case
 
 ## Project Overview
 
